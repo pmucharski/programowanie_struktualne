@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614858080 source:d:\programowanie_struk\1.4.5\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+
